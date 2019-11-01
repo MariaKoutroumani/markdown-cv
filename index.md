@@ -1,86 +1,56 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mary's Koutroumani CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mary Koutroumani
+Bsc in Business and Management Administration
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mary.koutroumani@gmail.com">mary.koutroumani@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studing Msc Human and Computer Interaction 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Business, Swot Analysis, Logistics, Design, Internet Of Things [IoT} (https://en.wikipedia.org/wiki/Internet_of_things)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Smart Applications, Social Internet of Things, Innovations in Design
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2019`
+__Businnes and Manager Administration-BMA (University of Patras)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2019 - now`
+__Master in Human and Computer Interaction (University of Patras)__
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+## Work Experience 
+`February 2019 to April 2019`
 
-Associate, *French Academy of Science*, Paris, France
+Juniour Executive Trainee, Marketway Publicis, Nicosia, Cyprus. 
 
+`July 2019 to August 2019`
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Data Analyst, Irida Labs, Rio, Patra, Greece
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Thesis 
+
+*Internet of things, Innovation and Business Οpportunities* (During my studies In BMA)
 
 
 
