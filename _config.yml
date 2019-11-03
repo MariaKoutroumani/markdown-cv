@@ -1,2 +1,4 @@
 markdown:   kramdown
 style:  davewhip
+
+theme: jekyll-theme-time-machine
