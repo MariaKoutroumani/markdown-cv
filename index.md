@@ -3,6 +3,7 @@ layout: cv
 title: Mary's Koutroumani CV
 ---
 # Mary Koutroumani
+
 Bsc in Business and Management Administration :mortar_board: 
 
 ## Favourite quote 
@@ -21,7 +22,7 @@ Bsc in Business and Management Administration :mortar_board:
  
  **Date of Birth**: 02/03/1997 
  
- ## Contact Info
+ ##  Contact Info
 
 
 __Email__: <div id="webaddress"> <a href="mary.koutroumani@gmail.com">mary.koutroumani@gmail.com</a></div>
@@ -37,17 +38,19 @@ __Phone number__: 6946....
 
 ## Education
 
+
 ### Currently
 
 **Studing Msc Human and Computer Interaction :computer:
 
 ### Past studies
 
+
 #### ` 2015 - 2019` Businness and Manager Administration (BMA), University Of Patras.
 
 ###  Bachelor Thesis 
 
- - [x] *Internet of things, Innovation and Business Οpportunities* (During my studies In BMA)
+ - [x] *Internet of things, Innovation and Business Οpportunities* 
 
 
 ### Specialized in
@@ -65,6 +68,8 @@ Smart Applications, Social Internet of Things, Innovations in Design
 
 
 ## Work Experience 
+
+
 #### `February 2019 to April 2019`
 
 **Junior Executive Trainee**, Marketway Publicis, Nicosia, *Cyprus*. 
