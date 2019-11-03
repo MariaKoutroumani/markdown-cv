@@ -8,7 +8,7 @@ Bsc in Business and Management Administration :mortar_board:
 
 ## Favourite quote 
 
-> _Suceess is not an accident, is love of what you are doing_
+>_Suceess is not an accident, is love of what you are doing_
 
 
 
@@ -22,7 +22,7 @@ Bsc in Business and Management Administration :mortar_board:
  
  **Date of Birth**: 02/03/1997 
  
- ##  Contact Info
+ ## Contact Info
 
 
 __Email__: <div id="webaddress"> <a href="mary.koutroumani@gmail.com">mary.koutroumani@gmail.com</a></div>
@@ -46,7 +46,7 @@ __Phone number__: 6946....
 ### Past studies
 
 
-#### ` 2015 - 2019` Businness and Manager Administration (BMA), University Of Patras.
+**2015 - 2019** Businness and Manager Administration (BMA), University Of Patras.
 
 ###  Bachelor Thesis 
 
@@ -70,7 +70,7 @@ Smart Applications, Social Internet of Things, Innovations in Design
 ## Work Experience 
 
 
-#### `February 2019 to April 2019`
+ > #### **February 2019 to April 2019**
 
 **Junior Executive Trainee**, Marketway Publicis, Nicosia, *Cyprus*. 
 
