@@ -22,10 +22,11 @@ Bsc in Business and Management Administration :mortar_board:
  
  **Date of Birth**: 02/03/1997 
  
- ## Contact Info
+ 
+## Contact info
 
 
-__Email__: <div id="webaddress"> <a href="mary.koutroumani@gmail.com">mary.koutroumani@gmail.com</a></div>
+__Email__:  <a href="mary.koutroumani@gmail.com">mary.koutroumani@gmail.com</a>
 
 __Address__: Aigio, Greece.
 
@@ -37,6 +38,7 @@ __Phone number__: 6946....
 
 
 ## Education
+
 
 
 ### Currently
@@ -55,7 +57,7 @@ __Phone number__: 6946....
 
 ### Specialized in
 
-- Business 
+- Business, 
 - Swot Analysis
 - Logistics, 
 - Design, 
@@ -70,19 +72,15 @@ Smart Applications, Social Internet of Things, Innovations in Design
 ## Work Experience 
 
 
- > #### **February 2019 to April 2019**
+  #### **February 2019 to April 2019**:  **Junior Executive Trainee**, Marketway Publicis, Nicosia, *Cyprus*. 
 
-**Junior Executive Trainee**, Marketway Publicis, Nicosia, *Cyprus*. 
-
-#### `July 2019 to August 2019`
-
-**Data Analyst**, Irida Labs, Rio, Patra, *Greece*
+#### **July 2019 to August 2019**:  **Data Analyst**, Irida Labs, Rio, Patra, *Greece*
 
 ## Languages
 
-- [X]  Greek
+- [X] Greek
 
-- [X]  English
+- [X] English
 
 ## Skills
 
