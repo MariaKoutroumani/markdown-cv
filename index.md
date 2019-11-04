@@ -4,7 +4,7 @@ title: Mary's Koutroumani CV
 ---
 # Mary Koutroumani
 
-Bsc in Business and Management Administration :mortar_board: 
+Bsc in Business and Management Administration  
 
 ## Favourite quote 
 
@@ -41,9 +41,10 @@ __Phone number__: 6946....
 
 
 
+
 ### Currently
 
-**Studing Msc Human and Computer Interaction :computer:
+__Studing Msc Human and Computer Interaction__
 
 ### Past studies
 
@@ -72,9 +73,10 @@ Smart Applications, Social Internet of Things, Innovations in Design
 ## Work Experience 
 
 
-  #### **February 2019 to April 2019**:  **Junior Executive Trainee**, Marketway Publicis, Nicosia, *Cyprus*. 
+   **February 2019 to April 2019**:  **Junior Executive Trainee**, Marketway Publicis, Nicosia, *Cyprus*. 
+   
 
-#### **July 2019 to August 2019**:  **Data Analyst**, Irida Labs, Rio, Patra, *Greece*
+   **July 2019 to August 2019**:  **Data Analyst**, Irida Labs, Rio, Patra, *Greece*
 
 ## Languages
 
@@ -90,7 +92,7 @@ Smart Applications, Social Internet of Things, Innovations in Design
 
 
 
-### Other interests 
+## Other interests 
 
 Reading books:books:, going trips :oncoming_automobile:, discover the world :world_map:. 
 
